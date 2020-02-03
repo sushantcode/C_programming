@@ -1,5 +1,5 @@
 
-SRC1 = Code2.c
+SRC1 = main.c
 
 SRC2 = DiceLib.c
 
